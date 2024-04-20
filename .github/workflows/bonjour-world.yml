@@ -9,5 +9,5 @@ jobs:
     steps:
       - uses: actions/checkout@v1
       - name: Echo Test
-        run: echo "Hello, world!"
+        run: echo "Bonjour, world!"
 
